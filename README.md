@@ -1,7 +1,8 @@
 # NYC Leading Causes of Death Visualizer
-This project visualizes the leading causes of death using Streamlit
 
 ## Description
+This project interactively visualizes the leading causes of death in NYC using Streamlit accordint to race and gender.
+
 
 ## Getting Started
 ### Dependencies
