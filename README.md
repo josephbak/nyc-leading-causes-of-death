@@ -8,6 +8,8 @@ This project interactively visualizes the leading causes of death in NYC using S
 ### Dependencies
 * pandas
 * streamlit
+* plotly
+
 
 ### Executing program
 * Open terminal.
