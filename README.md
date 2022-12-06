@@ -1,7 +1,12 @@
 # NYC Leading Causes of Death Visualizer
 
 ## Description
-This project interactively visualizes the leading causes of death in NYC using Streamlit accordint to race and gender.
+In this projecdt, I perform Exploratory Data Analysis on web scraped data of New York City Leading Causes of Death in Python using Pandas for Data Science. Then, it shows interactively visualizes the leading causes of death in NYC using Streamlit accordint to race and gender.
+
+## File List
+* EDA_nyc_leading_causes_of_deaths.ipynb
+* nyc-death-visualizer.py
+* NYC_leading_causes_of_death.csv
 
 
 ## Getting Started
